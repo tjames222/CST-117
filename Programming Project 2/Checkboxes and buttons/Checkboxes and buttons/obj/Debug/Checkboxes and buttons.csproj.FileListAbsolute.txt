@@ -1,0 +1,10 @@
+C:\Users\mrtim\source\repos\Checkboxes and buttons\Checkboxes and buttons\bin\Debug\Checkboxes and buttons.exe.config
+C:\Users\mrtim\source\repos\Checkboxes and buttons\Checkboxes and buttons\bin\Debug\Checkboxes and buttons.exe
+C:\Users\mrtim\source\repos\Checkboxes and buttons\Checkboxes and buttons\bin\Debug\Checkboxes and buttons.pdb
+C:\Users\mrtim\source\repos\Checkboxes and buttons\Checkboxes and buttons\obj\Debug\Checkboxes and buttons.csprojAssemblyReference.cache
+C:\Users\mrtim\source\repos\Checkboxes and buttons\Checkboxes and buttons\obj\Debug\Checkboxes_and_buttons.Form1.resources
+C:\Users\mrtim\source\repos\Checkboxes and buttons\Checkboxes and buttons\obj\Debug\Checkboxes_and_buttons.Properties.Resources.resources
+C:\Users\mrtim\source\repos\Checkboxes and buttons\Checkboxes and buttons\obj\Debug\Checkboxes and buttons.csproj.GenerateResource.cache
+C:\Users\mrtim\source\repos\Checkboxes and buttons\Checkboxes and buttons\obj\Debug\Checkboxes and buttons.csproj.CoreCompileInputs.cache
+C:\Users\mrtim\source\repos\Checkboxes and buttons\Checkboxes and buttons\obj\Debug\Checkboxes and buttons.exe
+C:\Users\mrtim\source\repos\Checkboxes and buttons\Checkboxes and buttons\obj\Debug\Checkboxes and buttons.pdb
