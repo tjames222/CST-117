@@ -1,0 +1,10 @@
+C:\Users\mrtim\source\repos\Calculation for PI\Calculation for PI\bin\Debug\Calculation for PI.exe.config
+C:\Users\mrtim\source\repos\Calculation for PI\Calculation for PI\bin\Debug\Calculation for PI.exe
+C:\Users\mrtim\source\repos\Calculation for PI\Calculation for PI\bin\Debug\Calculation for PI.pdb
+C:\Users\mrtim\source\repos\Calculation for PI\Calculation for PI\obj\Debug\Calculation for PI.csprojAssemblyReference.cache
+C:\Users\mrtim\source\repos\Calculation for PI\Calculation for PI\obj\Debug\Calculation_for_PI.Form1.resources
+C:\Users\mrtim\source\repos\Calculation for PI\Calculation for PI\obj\Debug\Calculation_for_PI.Properties.Resources.resources
+C:\Users\mrtim\source\repos\Calculation for PI\Calculation for PI\obj\Debug\Calculation for PI.csproj.GenerateResource.cache
+C:\Users\mrtim\source\repos\Calculation for PI\Calculation for PI\obj\Debug\Calculation for PI.csproj.CoreCompileInputs.cache
+C:\Users\mrtim\source\repos\Calculation for PI\Calculation for PI\obj\Debug\Calculation for PI.exe
+C:\Users\mrtim\source\repos\Calculation for PI\Calculation for PI\obj\Debug\Calculation for PI.pdb
