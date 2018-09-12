@@ -1,0 +1,10 @@
+C:\Users\mrtim\source\repos\Dice Roll\Dice Roll\bin\Debug\Dice Roll.exe.config
+C:\Users\mrtim\source\repos\Dice Roll\Dice Roll\bin\Debug\Dice Roll.exe
+C:\Users\mrtim\source\repos\Dice Roll\Dice Roll\bin\Debug\Dice Roll.pdb
+C:\Users\mrtim\source\repos\Dice Roll\Dice Roll\obj\Debug\Dice Roll.csprojAssemblyReference.cache
+C:\Users\mrtim\source\repos\Dice Roll\Dice Roll\obj\Debug\Dice_Roll.Form1.resources
+C:\Users\mrtim\source\repos\Dice Roll\Dice Roll\obj\Debug\Dice_Roll.Properties.Resources.resources
+C:\Users\mrtim\source\repos\Dice Roll\Dice Roll\obj\Debug\Dice Roll.csproj.GenerateResource.cache
+C:\Users\mrtim\source\repos\Dice Roll\Dice Roll\obj\Debug\Dice Roll.csproj.CoreCompileInputs.cache
+C:\Users\mrtim\source\repos\Dice Roll\Dice Roll\obj\Debug\Dice Roll.exe
+C:\Users\mrtim\source\repos\Dice Roll\Dice Roll\obj\Debug\Dice Roll.pdb
