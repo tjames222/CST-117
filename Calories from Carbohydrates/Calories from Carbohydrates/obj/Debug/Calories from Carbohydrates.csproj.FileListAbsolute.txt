@@ -1,0 +1,10 @@
+C:\Users\mrtim\source\repos\Calories from Carbohydrates\Calories from Carbohydrates\bin\Debug\Calories from Carbohydrates.exe.config
+C:\Users\mrtim\source\repos\Calories from Carbohydrates\Calories from Carbohydrates\bin\Debug\Calories from Carbohydrates.exe
+C:\Users\mrtim\source\repos\Calories from Carbohydrates\Calories from Carbohydrates\bin\Debug\Calories from Carbohydrates.pdb
+C:\Users\mrtim\source\repos\Calories from Carbohydrates\Calories from Carbohydrates\obj\Debug\Calories from Carbohydrates.csprojAssemblyReference.cache
+C:\Users\mrtim\source\repos\Calories from Carbohydrates\Calories from Carbohydrates\obj\Debug\Calories_from_Carbohydrates.Form1.resources
+C:\Users\mrtim\source\repos\Calories from Carbohydrates\Calories from Carbohydrates\obj\Debug\Calories_from_Carbohydrates.Properties.Resources.resources
+C:\Users\mrtim\source\repos\Calories from Carbohydrates\Calories from Carbohydrates\obj\Debug\Calories from Carbohydrates.csproj.GenerateResource.cache
+C:\Users\mrtim\source\repos\Calories from Carbohydrates\Calories from Carbohydrates\obj\Debug\Calories from Carbohydrates.csproj.CoreCompileInputs.cache
+C:\Users\mrtim\source\repos\Calories from Carbohydrates\Calories from Carbohydrates\obj\Debug\Calories from Carbohydrates.exe
+C:\Users\mrtim\source\repos\Calories from Carbohydrates\Calories from Carbohydrates\obj\Debug\Calories from Carbohydrates.pdb
