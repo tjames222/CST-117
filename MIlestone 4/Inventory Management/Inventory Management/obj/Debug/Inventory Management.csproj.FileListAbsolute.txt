@@ -1,0 +1,12 @@
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe.config
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csprojAssemblyReference.cache
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Properties.Resources.resources
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.GenerateResource.cache
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.CoreCompileInputs.cache
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.pdb
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Add_Item.resources
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.inventoryManagement.resources
+C:\Users\mrtim\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Edit_Window.resources
