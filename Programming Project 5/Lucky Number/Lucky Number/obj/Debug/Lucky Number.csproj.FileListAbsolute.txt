@@ -1,0 +1,11 @@
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\bin\Debug\Lucky Number.exe.config
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\bin\Debug\Lucky Number.exe
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\bin\Debug\Lucky Number.pdb
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\obj\Debug\Lucky Number.csprojAssemblyReference.cache
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\obj\Debug\Lucky_Number.Form1.resources
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\obj\Debug\Lucky_Number.Properties.Resources.resources
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\obj\Debug\Lucky Number.csproj.GenerateResource.cache
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\obj\Debug\Lucky Number.csproj.CoreCompileInputs.cache
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\obj\Debug\Lucky Number.exe
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\obj\Debug\Lucky Number.pdb
+C:\Users\mrtim\source\repos\Lucky Number\Lucky Number\obj\Debug\Lucky_Number.ResultsForm.resources
